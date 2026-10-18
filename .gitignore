@@ -1,0 +1,5 @@
+bin/
+obj/
+/.vs
+/Refactoring/.vs/Refactoring.slnx/v18
+/Refactoring/.vs
