@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Refactoring/.vs/Refactoring.slnx/v18
+/Refactoring/obj
+/Refactoring/.vs/Refactoring.slnx/FileContentIndex
+/Refactoring/part-01/bin/Debug/net10.0
+/Refactoring/part-01/obj/Release/net10.0
+/Refactoring/part-01/obj/Debug/net10.0/refint
+/Refactoring/part-01/obj/Debug/net10.0/ref
+/Refactoring/part-01/obj
